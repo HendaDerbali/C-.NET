@@ -1,0 +1,15 @@
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\obj\Debug\net6.0\03-Collections Practice.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\obj\Debug\net6.0\03-Collections Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\obj\Debug\net6.0\03-Collections Practice.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\obj\Debug\net6.0\03-Collections Practice.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\obj\Debug\net6.0\03-Collections Practice.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\bin\Debug\net6.0\03-Collections Practice.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\bin\Debug\net6.0\03-Collections Practice.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\bin\Debug\net6.0\03-Collections Practice.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\bin\Debug\net6.0\03-Collections Practice.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\bin\Debug\net6.0\03-Collections Practice.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\obj\Debug\net6.0\03-Collections Practice.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\obj\Debug\net6.0\refint\03-Collections Practice.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\obj\Debug\net6.0\03-Collections Practice.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\obj\Debug\net6.0\03-Collections Practice.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\03-Collections Practice\obj\Debug\net6.0\ref\03-Collections Practice.dll

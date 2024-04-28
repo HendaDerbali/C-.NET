@@ -1,0 +1,26 @@
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\bin\Debug\net6.0\appsettings.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\bin\Debug\net6.0\dotnet watch run.staticwebassets.runtime.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\bin\Debug\net6.0\dotnet watch run.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\bin\Debug\net6.0\dotnet watch run.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\bin\Debug\net6.0\dotnet watch run.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\bin\Debug\net6.0\dotnet watch run.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\bin\Debug\net6.0\dotnet watch run.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.RazorAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.RazorAssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\scopedcss\bundle\dotnet watch run.styles.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\scopedcss\projectbundle\dotnet watch run.bundle.scp.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\refint\dotnet watch run.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\dotnet watch run.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\dotnet watch run\obj\Debug\net6.0\ref\dotnet watch run.dll

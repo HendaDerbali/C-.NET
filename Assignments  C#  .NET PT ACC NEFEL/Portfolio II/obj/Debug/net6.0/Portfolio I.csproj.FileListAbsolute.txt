@@ -1,0 +1,44 @@
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\bin\Debug\net6.0\appsettings.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\bin\Debug\net6.0\Portfolio I.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\bin\Debug\net6.0\Portfolio I.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\bin\Debug\net6.0\Portfolio I.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\bin\Debug\net6.0\Portfolio I.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\bin\Debug\net6.0\Portfolio I.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\Portfolio I.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\Portfolio I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\Portfolio I.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\Portfolio I.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\Portfolio I.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\Portfolio I.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\scopedcss\bundle\Portfolio I.styles.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\Portfolio I.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\refint\Portfolio I.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\Portfolio I.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\Portfolio I.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio I\obj\Debug\net6.0\ref\Portfolio I.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\bin\Debug\net6.0\appsettings.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\bin\Debug\net6.0\Portfolio I.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\bin\Debug\net6.0\Portfolio I.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\bin\Debug\net6.0\Portfolio I.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\bin\Debug\net6.0\Portfolio I.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\bin\Debug\net6.0\Portfolio I.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.RazorAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.RazorAssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\scopedcss\bundle\Portfolio I.styles.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\refint\Portfolio I.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\Portfolio I.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Portfolio II\obj\Debug\net6.0\ref\Portfolio I.dll

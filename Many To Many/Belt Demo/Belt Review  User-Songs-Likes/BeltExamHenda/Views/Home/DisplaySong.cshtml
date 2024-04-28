@@ -1,0 +1,61 @@
+@{
+    ViewData["Title"] = "One Songs";
+}
+
+@model Like
+
+<h1>Single Song</h1>
+
+@* Display One Songs from the Table *@
+
+<table class="table">
+<thead>
+            <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                User (Artist)
+            </th>
+            <th>
+                Duration
+            </th>
+            <th>
+                Genre
+            </th>
+            <th>
+            Like/Dislike
+            </th>
+        </tr>
+    </thead>
+<tbody>
+    @foreach(Song s in ViewBag.SingleSong)
+{
+    <tr>
+        <th>
+            <p>@s.Title</p>
+        </th>
+        <th>
+            <p>@s.Creator.Name</p>
+        </th>
+        <td>
+            <p>@s.DurMinutes min, @s.DurSeconds s</p>
+        </td>
+        <td>
+            <p>@s.Genre</p>
+        </td>
+        <td>
+            <form action="/AddLike" method="post">
+                <div class="form-group">
+                    <input type="hidden" name="SongId" value="@s.SongId" />
+                    <input type="submit" value="Like" class="btn btn-warning" />
+                </div>
+            </form>
+        </td>
+    </tr>
+            
+
+            }
+</tbody>
+
+</table>

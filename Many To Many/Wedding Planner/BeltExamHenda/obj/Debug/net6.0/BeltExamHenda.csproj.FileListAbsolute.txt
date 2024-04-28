@@ -1,0 +1,70 @@
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\appsettings.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.staticwebassets.runtime.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.RazorAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.RazorAssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\scopedcss\bundle\BeltExamHenda.styles.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\scopedcss\projectbundle\BeltExamHenda.bundle.scp.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.csproj.CopyComplete
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\refint\BeltExamHenda.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Belt Demo\Projet Modèle\BeltExamHenda\obj\Debug\net6.0\ref\BeltExamHenda.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\appsettings.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.staticwebassets.runtime.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\BeltExamHenda.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.RazorAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.RazorAssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\scopedcss\bundle\BeltExamHenda.styles.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\scopedcss\projectbundle\BeltExamHenda.bundle.scp.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.csproj.CopyComplete
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\refint\BeltExamHenda.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\BeltExamHenda.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Many To Many\Wedding Planner\BeltExamHenda\obj\Debug\net6.0\ref\BeltExamHenda.dll

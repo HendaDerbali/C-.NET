@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Product
+<div class="text-center">
+    <h1>Products | <a href="/categories">Categories</a></h1>
+    <div class="row">
+        <div class="col-6">
+            <h2>New Product</h2>
+            <form action="/AddProduct" method="post">
+                <div class="form-group">
+                    <label for="Name">Name</label>
+                    <input asp-for="Name" class="form-control">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="Description">Description</label>
+                    <input asp-for="Description" class="form-control">
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="Price">Price</label>
+                    <input asp-for="Price" class="form-control">
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-warning" />
+                </div>
+            </form>
+        </div>
+
+        <div class="col-6">
+            <h2>All Products</h2>
+            @foreach (var p in ViewBag.AllProducts)
+            {
+                <a href="/products/@p.ProductId"><p>@p.Name</p> </a>          
+            } 
+
+        </div>
+    </div>
+
+</div>

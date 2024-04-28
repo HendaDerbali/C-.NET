@@ -1,0 +1,52 @@
+@{
+    ViewData["Title"] = "All Songs";
+}
+
+<p>Hello, @ViewBag.LoggedIn!</p>
+
+
+@* Display All Songs of all users : in Table *@
+
+<table class ="table table-bordered">
+    <thead>
+            <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                User (Artist)
+            </th>
+            <th>
+                Duration
+            </th>
+            <th>
+                Genre
+            </th>
+            <th>
+                Likes
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Song s in ViewBag.AllSongs)
+        {
+        <tr>
+            <td>
+                <p><a href="/songs/@s.SongId">@s.Title</a></p>
+            </td> 
+            <td>
+                <p>@s.Creator.Name</p>
+            </td>
+            <td>
+                <p>@s.DurMinutes min, @s.DurSeconds s</p>
+            </td>
+            <td>
+                <p>@s.Genre</p>
+            </td>
+            <td>
+                <p>@s.UsersWhoLike.Count</p>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>            

@@ -1,0 +1,146 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Diplay our list </h2>
+    <table class="table taple striped">
+        <tr>
+            <th>Volcano</th>
+            <th>Year</th>
+            <th>Location</th>
+            <th>ElevationInMeters</th>
+            <th>Type</th>
+        </tr>
+        @foreach (Eruption E in @ViewBag.eruptionsFromData)
+        {
+            <tr>
+                <td>@E.Volcano</td>
+                <td>@E.Year</td>
+                <td>@E.Location</td>
+                <td>@E.ElevationInMeters</td>
+                <td>@E.Type</td>
+            </tr>
+        }
+
+    </table>
+
+    <h2 class="display-4" >Ordered List By date </h2>
+        <table class="table taple striped">
+        <tr>
+            <th>Volcano</th>
+            <th>Year</th>
+            <th>Location</th>
+            <th>ElevationInMeters</th>
+            <th>Type</th>
+        </tr>
+        @foreach (Eruption E in @ViewBag.orderedDataByYearDescending)
+        {
+            <tr>
+                <td>@E.Volcano</td>
+                <td>@E.Year</td>
+                <td>@E.Location</td>
+                <td>@E.ElevationInMeters</td>
+                <td>@E.Type</td>
+            </tr>
+        }
+
+    </table>
+<h2>Find the first eruption from the "Hawaiian Is" location and print it. If none is found, print "No Hawaiian Is Eruption found."
+</h2>
+<table class="table taple striped">
+        <tr>
+            <th>Volcano</th>
+            <th>Year</th>
+            <th>Location</th>
+            <th>ElevationInMeters</th>
+            <th>Type</th>
+        </tr>
+        @foreach (Eruption E in @ViewBag.FirstEruption)
+        {
+            <tr>
+                <td>@E.Volcano</td>
+                <td>@E.Year</td>
+                <td>@E.Location</td>
+                <td>@E.ElevationInMeters</td>
+                <td>@E.Type</td>
+            </tr>
+        }
+
+    </table>
+
+    <h2>Find the first eruption that is after the year 1900 AND in "New Zealand", then print it.</h2>
+    <table class="table taple striped">
+        <tr>
+            <th>Volcano</th>
+            <th>Year</th>
+            <th>Location</th>
+            <th>ElevationInMeters</th>
+            <th>Type</th>
+        </tr>
+        @foreach (Eruption E in @ViewBag.EruptionAfter)
+        {
+            <tr>
+                <td>@E.Volcano</td>
+                <td>@E.Year</td>
+                <td>@E.Location</td>
+                <td>@E.ElevationInMeters</td>
+                <td>@E.Type</td>
+            </tr>
+        }
+
+    </table>
+
+    <h2>Find all eruptions where the volcano's elevation is over 2000m and print them.</h2>
+    <table class="table taple striped">
+        <tr>
+            <th>Volcano</th>
+            <th>Year</th>
+            <th>Location</th>
+            <th>ElevationInMeters</th>
+            <th>Type</th>
+        </tr>
+        @foreach (Eruption E in @ViewBag.EruptionElevation)
+        {
+            <tr>
+                <td>@E.Volcano</td>
+                <td>@E.Year</td>
+                <td>@E.Location</td>
+                <td>@E.ElevationInMeters</td>
+                <td>@E.Type</td>
+            </tr>
+        }
+
+    </table>
+
+    <h2>Find all eruptions where the volcano's name starts with "L" and print them. Also print the number of eruptions found. </h2>
+    <p>number of eruptions found : @ViewBag.nbr </p>
+    <table class="table taple striped">
+        <tr>
+            <th>Volcano</th>
+            <th>Year</th>
+            <th>Location</th>
+            <th>ElevationInMeters</th>
+            <th>Type</th>
+        </tr>
+        @foreach (Eruption E in @ViewBag.EruptionName)
+        {
+            <tr>
+                <td>@E.Volcano</td>
+                <td>@E.Year</td>
+                <td>@E.Location</td>
+                <td>@E.ElevationInMeters</td>
+                <td>@E.Type</td>
+            </tr>
+        }
+
+    </table>
+
+    <h2>Find the highest elevation, and print only that integer 
+        (Hint: Look up how to use LINQ to find the max!) </h2>
+    @ViewBag.HighestElevation
+
+    <h2>Use the highest elevation variable to find a print the name of the Volcano with that elevation.</h2>
+    <p>@ViewBag.Name</p>
+
+</div>

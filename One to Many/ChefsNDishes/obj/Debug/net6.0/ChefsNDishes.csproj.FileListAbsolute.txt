@@ -1,0 +1,70 @@
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.RazorAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.RazorAssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\appsettings.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.staticwebassets.runtime.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\scopedcss\bundle\ChefsNDishes.styles.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\scopedcss\projectbundle\ChefsNDishes.bundle.scp.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.csproj.CopyComplete
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\refint\ChefsNDishes.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\ChefsNDishes\obj\Debug\net6.0\ref\ChefsNDishes.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\appsettings.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.staticwebassets.runtime.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.RazorAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.RazorAssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\scopedcss\bundle\ChefsNDishes.styles.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\scopedcss\projectbundle\ChefsNDishes.bundle.scp.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.csproj.CopyComplete
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\refint\ChefsNDishes.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\One to Many\ChefsNDishes\obj\Debug\net6.0\ref\ChefsNDishes.dll

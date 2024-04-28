@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model User
+<div class="row text-center">
+    <div class = col-6>
+        <h1 >Register</h1>
+        <form action="/Register" method="post">
+            <div class = "form-group row mb-3">
+                <label for="FirstName"  class="col-sm-2 col-form-label text-start">First Name : </label>
+                <div class ="col-sm-10">
+                    <input  asp-for = "FirstName" class="form-control">
+                </div>           
+                <span asp-validation-for="FirstName" class = "text-danger"></span>
+            </div>
+            <div class = "form-group row mb-3">
+                <label for="LastName" class="col-sm-2 col-form-label text-start" >Last Name : </label>
+                <div class ="col-sm-10">
+                    <input  asp-for = "LastName" class="form-control">
+                </div>           
+                <span asp-validation-for="LastName" class = "text-danger"></span>
+            </div>
+            <div class = "form-group row mb-3">
+                <label for="Email" class="col-sm-2 col-form-label text-start">Email : </label>
+                <div class ="col-sm-10">
+                    <input  asp-for = "Email" class="form-control">
+                </div>           
+                <span asp-validation-for="Email" class = "text-danger"></span>
+            </div>
+            <div class = "form-group row mb-3">
+                <label for="Password" class="col-sm-2 col-form-label text-start">Password : </label>
+                <div class ="col-sm-10">
+                    <input  asp-for = "Password" class="form-control">
+                </div>           
+                <span asp-validation-for="Password" class = "text-danger"></span>
+            </div>
+            <div class = "form-group row mb-3">
+                <label for="PwdConfirm" class="col-sm-2 col-form-label text-start">PW Confirm : </label>
+                <div class ="col-sm-10">
+                    <input  asp-for = "PwdConfirm" class="form-control">
+                </div>           
+                <span asp-validation-for="PwdConfirm" class = "text-danger"></span>
+            </div>
+            <div class="form-group row mb-3">
+                <div class="col-sm-10 offset-sm-2 text-start ">
+                    <button type="submit" class="btn btn-info">Register</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class = col-6>
+        <h1>LogIn</h1>
+        <partial name="_login" />
+    </div>
+
+    </div>
+
+</div>

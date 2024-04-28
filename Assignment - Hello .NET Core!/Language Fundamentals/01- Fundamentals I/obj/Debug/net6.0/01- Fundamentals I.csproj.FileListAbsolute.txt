@@ -1,0 +1,15 @@
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\bin\Debug\net6.0\01- Fundamentals I.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\bin\Debug\net6.0\01- Fundamentals I.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\bin\Debug\net6.0\01- Fundamentals I.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\bin\Debug\net6.0\01- Fundamentals I.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\bin\Debug\net6.0\01- Fundamentals I.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\obj\Debug\net6.0\01- Fundamentals I.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\obj\Debug\net6.0\01- Fundamentals I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\obj\Debug\net6.0\01- Fundamentals I.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\obj\Debug\net6.0\01- Fundamentals I.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\obj\Debug\net6.0\01- Fundamentals I.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\obj\Debug\net6.0\01- Fundamentals I.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\obj\Debug\net6.0\refint\01- Fundamentals I.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\obj\Debug\net6.0\01- Fundamentals I.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\obj\Debug\net6.0\01- Fundamentals I.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Language Fundamentals\01- Fundamentals I\obj\Debug\net6.0\ref\01- Fundamentals I.dll

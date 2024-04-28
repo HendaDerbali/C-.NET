@@ -1,0 +1,55 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model Dish
+    <div class="text-center" >
+        <h1>Add a new Dish!</h1>
+        <div class="d-flex justify-content-center">
+            <a href="/Home">Home</a>
+            <p>|</p>
+            <a href="/dishes/new">Add a Dish</a>
+    </div>  
+
+
+
+
+<form action="/@Model.DishId/update" method="post">
+    <div class="form-group">
+        <label for="Chef">Chef's Name</label>
+        <input asp-for="Chef">
+        <span asp-validation-for="Chef" class="text-danger"></span> 
+    <div class="form-group">
+        <label for="Name">Name of Dish</label>
+        <input asp-for="Name">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Calories"># of Calories</label>
+        <input asp-for="Calories">
+        <span asp-validation-for="Calories" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Tastiness">Tastiness</label>
+        <select asp-for="Tastiness" >
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+        <span asp-validation-for="Tastiness" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="TEXT">Descrition</label>
+        <textarea asp-for="TEXT" cols="30" rows="10"></textarea>
+        <span asp-validation-for="TEXT" class="text-danger"></span>
+    </div>
+
+    <button type="submit"  class="btn btn-info">Edit Dish</button>
+    
+
+
+
+</form>        
+</div>
+

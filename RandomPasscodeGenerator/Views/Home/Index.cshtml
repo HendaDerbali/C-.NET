@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "A Web Page";
+}
+
+<div class="text-center">
+    @* <h1>Welcome User : @Context.Session.GetString("User")</h1> *@
+    <p>Random password # @Context.Session.GetString("pwd") </p>
+    <p>Count: @ViewBag.Count</p>
+    <form action="process" method="post" >
+        <div>
+            <input type="text" name="pwd" id="pwd" class="form-control"><br>
+        </div>
+        <div>
+            <button type="submit">Generate</button> 
+        </div>
+    
+    </form>
+    
+</div>

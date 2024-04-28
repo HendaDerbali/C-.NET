@@ -1,0 +1,15 @@
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\bin\Debug\net6.0\Puzzles.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\bin\Debug\net6.0\Puzzles.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\obj\Debug\net6.0\Puzzles.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\obj\Debug\net6.0\Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\obj\Debug\net6.0\Puzzles.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\obj\Debug\net6.0\Puzzles.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\obj\Debug\net6.0\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\obj\Debug\net6.0\Puzzles.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\obj\Debug\net6.0\refint\Puzzles.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\obj\Debug\net6.0\Puzzles.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\bin\Debug\net6.0\Puzzles.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\bin\Debug\net6.0\Puzzles.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\bin\Debug\net6.0\Puzzles.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\obj\Debug\net6.0\Puzzles.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Puzzles\obj\Debug\net6.0\ref\Puzzles.dll

@@ -1,0 +1,47 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<p>Hello, @ViewBag.LoggedIn!</p>
+
+
+
+<div class="text-center">
+<a href="/Logout" class="btn btn-info">Log out</a>
+<a href="/AddSong" class="btn btn-info">Add</a>
+<a href="/AllSongs" class="btn btn-info">Discover</a>
+
+    <div class="row">
+        <div class="col-6">
+            <h3>My Songs</h3>
+            @* Display  Songs created by our user *@
+            @foreach (var s in ViewBag.AllSongsOfOneUser)
+            {
+                <p> @s.Title</p>
+
+            }
+        </div>
+        <div class="col-6">
+            @* Display All Songs of all users *@
+            <h3>All Songs</h3>
+            @foreach(Song s in ViewBag.AllSongs)
+            {
+                <p> @s.Title</p>
+            }
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+        
+
+
+       

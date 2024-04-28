@@ -1,0 +1,35 @@
+<h1>Add Song</h1>
+@model Song
+@* <h1>hi @ViewBag.LoggedIn.UserId</h1> *@
+<p>Hello, @ViewBag.LoggedIn!</p>
+
+
+<form action="/song/add" method="post">
+    <div class="form-group">
+        <label for="Title">Title</label>
+        <input asp-for="Title" class="form-control">
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    @* <input asp-for="UserId" class="form-control" value="3"> *@
+    <div class="form-group">
+        <label for="DurMinutes">Duration</label>
+        <input asp-for="DurMinutes" class="col-1">
+        <span>:</span>
+        <input asp-for="DurSeconds" class="col-1">
+        <span asp-validation-for="DurMinutes" class="text-danger"></span>
+        <span asp-validation-for="DurSeconds" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Genre">Genre</label>
+        <select asp-for="Genre" class="form-control">
+            <option value="Rock">Rock</option>
+            <option value="Electronic">Rock</option>
+            <option value="Rap">Ska</option>
+            <option value="Raggae">Raggae</option>
+            <option value="Arabic">Arabic</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="ADD Song" class="btn btn-warning">
+    </div>
+</form>

@@ -1,0 +1,23 @@
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\bin\Debug\net6.0\appsettings.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\bin\Debug\net6.0\Assignment Dojo Survey.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\bin\Debug\net6.0\Assignment Dojo Survey.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\bin\Debug\net6.0\Assignment Dojo Survey.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\bin\Debug\net6.0\Assignment Dojo Survey.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\bin\Debug\net6.0\Assignment Dojo Survey.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.RazorAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.RazorAssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\scopedcss\bundle\Assignment Dojo Survey.styles.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\refint\Assignment Dojo Survey.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\Assignment Dojo Survey.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignment Dojo Survey\obj\Debug\net6.0\ref\Assignment Dojo Survey.dll

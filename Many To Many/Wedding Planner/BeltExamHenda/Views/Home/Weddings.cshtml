@@ -1,0 +1,60 @@
+@* It replace Dashboard in belt review user song Like *@
+
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+
+<div class="d-flex justify-content-between">
+    <p>Welcome @ViewBag.LoggedIn !</p>
+    <p> Home | <a href="/weddings/new">Plan a Wedding</a> | <a href="/logout">Logout</a></p>
+</div>
+
+
+<table class="table table-sm">
+    <thead>
+        <tr>
+            <th>Wedding of</th>
+            <th>Date</th>
+            <th>Guest Count</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Wedding w in ViewBag.AllWeddings)
+{
+    // Check if the user has already reserved this wedding
+    bool isReserved = w.UsersWhoReserved.Any(r => r.UserId == ViewBag.LoggedId);
+
+    <tr>
+        <th> <a href="/weddings/@w.WeddingId">@w.WedderOne & @w.WedderTwo</a></th>
+        <th>@w.Date.ToString("MMM-dd-yyyy")</th>
+        <th>
+            <p>@w.UsersWhoReserved.Count</p>
+        </th>
+        <th>
+            @if (ViewBag.LoggedId != null && ViewBag.LoggedId == w.UserId)
+            {
+                <a href="/delete/@w.WeddingId"><button type="submit" class="btn btn-danger">Delete</button></a>
+            }
+            else
+            {
+                <form method="post" action="/reserve">
+                    <input type="hidden" name="WeddingId" value="@w.WeddingId" />
+                    @if (isReserved)
+                    {
+                        <button type="submit" class="btn btn-danger">UNRESERV</button>
+                    }
+                    else
+                    {
+                        <button type="submit" class="btn btn-success">RSRV</button>
+                    }
+                </form>
+            }
+        </th>
+    </tr>
+}
+      
+    </tbody>
+</table>

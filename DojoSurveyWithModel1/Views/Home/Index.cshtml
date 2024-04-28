@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Dojo
+<div class="text-center">
+    <form action="process" method="post">
+        <div>
+            <label for="Name">Your Name:</label> 
+            <input type="text" name="Name" id="Name" class="form-control">
+        </div> 
+        <div>
+            <label for="Dojo Location">Location</label>
+            <select id="Location" name="Location" class="form-control" >
+                <option value="San Jose">San Jose  </option>
+            </select>
+        </div>
+
+        <div>
+            <label for="Language">Favorite Language</label>
+            <select id="Language" name="Language" class="form-control">
+                <option value="C#">C#</option>
+            </select>
+        </div>
+        <div>
+            <label for="Comment">Comment(Optional):</label>
+            <textarea name="Comment" id="Comment" cols="30" rows="03"  class="form-control"  ></textarea  >
+        </div>
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+    
+    
+
+
+    </form>
+    
+</div>

@@ -1,0 +1,23 @@
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\bin\Debug\net6.0\appsettings.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\bin\Debug\net6.0\Razor Fun!.exe
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\bin\Debug\net6.0\Razor Fun!.deps.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\bin\Debug\net6.0\Razor Fun!.runtimeconfig.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\bin\Debug\net6.0\Razor Fun!.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\bin\Debug\net6.0\Razor Fun!.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.csproj.AssemblyReference.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.AssemblyInfoInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.AssemblyInfo.cs
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.csproj.CoreCompileInputs.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\scopedcss\bundle\Razor Fun!.styles.css
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\refint\Razor Fun!.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.pdb
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.genruntimeconfig.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\ref\Razor Fun!.dll
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.RazorAssemblyInfo.cache
+C:\Users\DERBALI\Desktop\Coding Dojo\04- 3rd stack C# .Net\Assignments\Assignments  C#  .NET PT ACC NEFEL\Razor Fun!\obj\Debug\net6.0\Razor Fun!.RazorAssemblyInfo.cs

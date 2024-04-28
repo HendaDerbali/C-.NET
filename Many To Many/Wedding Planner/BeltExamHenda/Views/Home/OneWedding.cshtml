@@ -1,0 +1,23 @@
+@model Reservation
+
+<div class="d-flex justify-content-between">
+   <p>Welcome @ViewBag.LoggedIn !</p>
+   <p> <a href="/weddings">Home</a> | <a href="/weddings/new">Plan a Wedding</a> | <a href="/logout">Logout</a></p>
+
+</div>
+@foreach (Wedding w in ViewBag.AllWeddings)
+{
+   <h1>@w.WedderOne & @w.WedderTwo 's Wedding</h1>
+   <p>@w.Date</p>
+   <p>Guests :</p>
+   <ul>
+      @foreach (var r in w.UsersWhoReserved)
+      {
+         <li>@r.User.FirstName @r.User.LastName</li>
+      }
+   </ul>
+
+
+
+
+}
